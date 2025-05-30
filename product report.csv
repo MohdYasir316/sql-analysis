@@ -1,0 +1,95 @@
+product_key,product_name,category,subcategory,cost,last_sale_date,recency_in_months,product_segment,lifespan,total_orders,total_sales,total_quantity,total_customers,avg_selling_price,avg_order_revenue,avg_monthly_revenue
+104,Mountain Bottle Cage,Accessories,Bottles and Cages,4,30-03-2013,146,Low-Performer,0,56,560,56,56,10,10,560
+105,Road Bottle Cage,Accessories,Bottles and Cages,3,31-03-2013,146,Low-Performer,0,58,522,58,58,9,9,522
+106,Mountain-500 Black- 40,Bikes,Mountain Bikes,295,29-03-2013,146,Low-Performer,0,3,1620,3,3,540,540,1620
+107,Mountain-500 Black- 42,Bikes,Mountain Bikes,295,27-03-2013,146,Low-Performer,0,3,1620,3,3,540,540,1620
+108,Mountain-500 Black- 44,Bikes,Mountain Bikes,295,30-03-2013,146,Low-Performer,0,4,2160,4,4,540,540,2160
+109,Mountain-500 Black- 48,Bikes,Mountain Bikes,295,23-03-2013,146,Low-Performer,0,1,540,1,1,540,540,540
+112,Mountain-500 Silver- 42,Bikes,Mountain Bikes,308,27-03-2013,146,Low-Performer,0,2,1130,2,2,565,565,1130
+113,Mountain-500 Silver- 44,Bikes,Mountain Bikes,308,25-03-2013,146,Low-Performer,0,1,565,1,1,565,565,565
+114,Mountain-500 Silver- 48,Bikes,Mountain Bikes,308,18-03-2013,146,Low-Performer,0,1,565,1,1,565,565,565
+116,Mountain-400-W Silver- 38,Bikes,Mountain Bikes,420,28-03-2013,146,Low-Performer,0,5,3845,5,5,769,769,3845
+117,Mountain-400-W Silver- 40,Bikes,Mountain Bikes,420,18-03-2013,146,Low-Performer,0,4,3076,4,4,769,769,3076
+118,Mountain-400-W Silver- 42,Bikes,Mountain Bikes,420,27-03-2013,146,Low-Performer,0,4,3076,4,4,769,769,3076
+119,Mountain-400-W Silver- 46,Bikes,Mountain Bikes,420,20-03-2013,146,Low-Performer,0,1,769,1,1,769,769,769
+120,Mountain-200 Black- 38,Bikes,Mountain Bikes,1252,30-03-2013,146,Mid-Range,0,11,25245,11,11,2295,2295,25245
+121,Mountain-200 Black- 42,Bikes,Mountain Bikes,1252,30-03-2013,146,Mid-Range,0,11,25245,11,11,2295,2295,25245
+122,Mountain-200 Black- 46,Bikes,Mountain Bikes,1252,26-03-2013,146,Mid-Range,0,9,20655,9,9,2295,2295,20655
+123,Mountain-200 Silver- 38,Bikes,Mountain Bikes,1266,28-03-2013,146,Mid-Range,0,10,23200,10,10,2320,2320,23200
+124,Mountain-200 Silver- 42,Bikes,Mountain Bikes,1266,29-03-2013,146,Mid-Range,0,13,30160,13,13,2320,2320,30160
+125,Mountain-200 Silver- 46,Bikes,Mountain Bikes,1266,31-03-2013,146,Mid-Range,0,9,20880,9,9,2320,2320,20880
+126,Road-750 Black- 44,Bikes,Road Bikes,344,30-03-2013,146,Low-Performer,0,10,5400,10,10,540,540,5400
+127,Road-750 Black- 48,Bikes,Road Bikes,344,30-03-2013,146,Low-Performer,0,15,8100,15,15,540,540,8100
+128,Road-750 Black- 52,Bikes,Road Bikes,344,25-03-2013,146,Low-Performer,0,6,3240,6,6,540,540,3240
+129,Road-750 Black- 58,Bikes,Road Bikes,344,27-03-2013,146,Low-Performer,0,11,5940,11,11,540,540,5940
+130,Road-550-W Yellow- 38,Bikes,Road Bikes,713,28-03-2013,146,Low-Performer,0,4,4480,4,4,1120,1120,4480
+131,Road-550-W Yellow- 40,Bikes,Road Bikes,713,27-03-2013,146,Low-Performer,0,4,4480,4,4,1120,1120,4480
+132,Road-550-W Yellow- 42,Bikes,Road Bikes,713,29-03-2013,146,Mid-Range,0,9,10080,9,9,1120,1120,10080
+133,Road-550-W Yellow- 44,Bikes,Road Bikes,713,26-03-2013,146,Low-Performer,0,6,6720,6,6,1120,1120,6720
+134,Road-550-W Yellow- 48,Bikes,Road Bikes,713,30-03-2013,146,Mid-Range,0,10,11200,10,10,1120,1120,11200
+135,Road-350-W Yellow- 40,Bikes,Road Bikes,1083,26-03-2013,146,Mid-Range,0,6,10206,6,6,1701,1701,10206
+136,Road-350-W Yellow- 42,Bikes,Road Bikes,1083,31-03-2013,146,Mid-Range,0,10,17010,10,10,1701,1701,17010
+137,Road-350-W Yellow- 44,Bikes,Road Bikes,1083,30-03-2013,146,Low-Performer,0,5,8505,5,5,1701,1701,8505
+138,Road-350-W Yellow- 48,Bikes,Road Bikes,1083,25-03-2013,146,Low-Performer,0,4,6804,4,4,1701,1701,6804
+139,Road-250 Black- 44,Bikes,Road Bikes,1555,29-03-2013,146,Mid-Range,0,7,17101,7,7,2443,2443,17101
+140,Road-250 Black- 48,Bikes,Road Bikes,1555,24-03-2013,146,Mid-Range,0,8,19544,8,8,2443,2443,19544
+141,Road-250 Black- 52,Bikes,Road Bikes,1555,29-03-2013,146,Mid-Range,0,10,24430,10,10,2443,2443,24430
+142,Road-250 Black- 58,Bikes,Road Bikes,1555,29-03-2013,146,Mid-Range,0,8,19544,8,8,2443,2443,19544
+143,Road-250 Red- 58,Bikes,Road Bikes,1555,29-03-2013,146,Mid-Range,0,5,12215,5,5,2443,2443,12215
+144,Touring-3000 Blue- 44,Bikes,Touring Bikes,461,27-03-2013,146,Low-Performer,0,4,2968,4,4,742,742,2968
+145,Touring-3000 Blue- 50,Bikes,Touring Bikes,461,20-03-2013,146,Low-Performer,0,1,742,1,1,742,742,742
+149,Touring-3000 Yellow- 44,Bikes,Touring Bikes,461,30-03-2013,146,Low-Performer,0,2,1484,2,2,742,742,1484
+150,Touring-3000 Yellow- 50,Bikes,Touring Bikes,461,23-03-2013,146,Low-Performer,0,3,2226,3,3,742,742,2226
+151,Touring-3000 Yellow- 54,Bikes,Touring Bikes,461,25-03-2013,146,Low-Performer,0,1,742,1,1,742,742,742
+153,Touring-3000 Yellow- 62,Bikes,Touring Bikes,461,29-03-2013,146,Low-Performer,0,1,742,1,1,742,742,742
+154,Touring-2000 Blue- 46,Bikes,Touring Bikes,755,30-03-2013,146,Low-Performer,0,4,4860,4,4,1215,1215,4860
+155,Touring-2000 Blue- 50,Bikes,Touring Bikes,755,25-03-2013,146,Low-Performer,0,4,4860,4,4,1215,1215,4860
+156,Touring-2000 Blue- 54,Bikes,Touring Bikes,755,23-03-2013,146,Low-Performer,0,1,1215,1,1,1215,1215,1215
+157,Touring-2000 Blue- 60,Bikes,Touring Bikes,755,30-03-2013,146,Low-Performer,0,4,4860,4,4,1215,1215,4860
+158,Touring-1000 Blue- 46,Bikes,Touring Bikes,1482,29-03-2013,146,Low-Performer,0,2,4768,2,2,2384,2384,4768
+159,Touring-1000 Blue- 50,Bikes,Touring Bikes,1482,30-03-2013,146,Mid-Range,0,6,14304,6,6,2384,2384,14304
+161,Touring-1000 Blue- 60,Bikes,Touring Bikes,1482,28-03-2013,146,Low-Performer,0,4,9536,4,4,2384,2384,9536
+162,Touring-1000 Yellow- 46,Bikes,Touring Bikes,1482,30-03-2013,146,Mid-Range,0,5,11920,5,5,2384,2384,11920
+163,Touring-1000 Yellow- 50,Bikes,Touring Bikes,1482,19-03-2013,146,Low-Performer,0,1,2384,1,1,2384,2384,2384
+164,Touring-1000 Yellow- 54,Bikes,Touring Bikes,1482,30-03-2013,146,Low-Performer,0,4,9536,4,4,2384,2384,9536
+165,Touring-1000 Yellow- 60,Bikes,Touring Bikes,1482,22-03-2013,146,Mid-Range,0,5,11920,5,5,2384,2384,11920
+166,AWC Logo Cap,Clothing,Caps,7,31-03-2013,146,Low-Performer,0,74,666,74,74,9,9,666
+168,Bike Wash - Dissolver,Accessories,Cleaners,3,31-03-2013,146,Low-Performer,0,34,272,34,34,8,8,272
+174,Fender Set - Mountain,Accessories,Fenders,8,31-03-2013,146,Low-Performer,0,66,1452,66,66,22,22,1452
+233,Half-Finger Gloves- L,Clothing,Gloves,9,31-03-2013,146,Low-Performer,0,22,528,22,22,24,24,528
+234,Half-Finger Gloves- M,Clothing,Gloves,9,30-03-2013,146,Low-Performer,0,17,408,17,17,24,24,408
+235,Half-Finger Gloves- S,Clothing,Gloves,9,31-03-2013,146,Low-Performer,0,15,360,15,15,24,24,360
+244,Sport-100 Helmet- Black,Accessories,Helmets,13,31-03-2013,146,Low-Performer,0,97,3395,97,97,35,35,3395
+245,Sport-100 Helmet- Blue,Accessories,Helmets,13,31-03-2013,146,Low-Performer,0,74,2590,74,73,35,35,2590
+246,Sport-100 Helmet- Red,Accessories,Helmets,13,31-03-2013,146,Low-Performer,0,74,2590,74,74,35,35,2590
+247,Hydration Pack - 70 oz.,Accessories,Hydration Packs,21,30-03-2013,146,Low-Performer,0,32,1760,32,32,55,55,1760
+248,Long-Sleeve Logo Jersey- L,Clothing,Jerseys,38,30-03-2013,146,Low-Performer,0,19,950,19,19,50,50,950
+249,Long-Sleeve Logo Jersey- M,Clothing,Jerseys,38,30-03-2013,146,Low-Performer,0,15,750,15,15,50,50,750
+250,Long-Sleeve Logo Jersey- S,Clothing,Jerseys,38,30-03-2013,146,Low-Performer,0,19,950,19,19,50,50,950
+251,Long-Sleeve Logo Jersey- XL,Clothing,Jerseys,38,30-03-2013,146,Low-Performer,0,12,600,12,12,50,50,600
+259,Patch Kit/8 Patches,Accessories,Tires and Tubes,1,31-03-2013,146,Low-Performer,0,109,218,109,109,2,2,218
+260,Hitch Rack - 4-Bike,Accessories,Bike Racks,45,30-03-2013,146,Low-Performer,0,16,1920,16,16,120,120,1920
+272,Women's Mountain Shorts- L,Clothing,Shorts,26,30-03-2013,146,Low-Performer,0,12,840,12,12,70,70,840
+273,Women's Mountain Shorts- M,Clothing,Shorts,26,28-03-2013,146,Low-Performer,0,18,1260,18,18,70,70,1260
+274,Women's Mountain Shorts- S,Clothing,Shorts,26,30-03-2013,146,Low-Performer,0,12,840,12,12,70,70,840
+275,Short-Sleeve Classic Jersey- L,Clothing,Jerseys,42,31-03-2013,146,Low-Performer,0,15,810,15,15,54,54,810
+276,Short-Sleeve Classic Jersey- M,Clothing,Jerseys,42,27-03-2013,146,Low-Performer,0,16,864,16,16,54,54,864
+277,Short-Sleeve Classic Jersey- S,Clothing,Jerseys,42,30-03-2013,146,Low-Performer,0,12,648,12,12,54,54,648
+278,Short-Sleeve Classic Jersey- XL,Clothing,Jerseys,42,31-03-2013,146,Low-Performer,0,19,1026,19,19,54,54,1026
+279,Racing Socks- L,Clothing,Socks,3,28-03-2013,146,Low-Performer,0,12,108,12,12,9,9,108
+280,Racing Socks- M,Clothing,Socks,3,29-03-2013,146,Low-Performer,0,11,99,11,11,9,9,99
+281,All-Purpose Bike Stand,Accessories,Bike Stands,59,26-03-2013,146,Low-Performer,0,7,1113,7,7,159,159,1113
+282,LL Mountain Tire,Accessories,Tires and Tubes,9,31-03-2013,146,Low-Performer,0,34,850,34,34,25,25,850
+283,ML Mountain Tire,Accessories,Tires and Tubes,11,31-03-2013,146,Low-Performer,0,50,1500,50,50,30,30,1500
+284,HL Mountain Tire,Accessories,Tires and Tubes,13,31-03-2013,146,Low-Performer,0,45,1575,45,45,35,35,1575
+285,LL Road Tire,Accessories,Tires and Tubes,8,30-03-2013,146,Low-Performer,0,42,882,42,42,21,21,882
+286,ML Road Tire,Accessories,Tires and Tubes,9,31-03-2013,146,Low-Performer,0,33,825,33,33,25,25,825
+287,HL Road Tire,Accessories,Tires and Tubes,12,30-03-2013,146,Low-Performer,0,34,1122,34,33,33,33,1122
+288,Touring Tire,Accessories,Tires and Tubes,11,30-03-2013,146,Low-Performer,0,39,1131,39,39,29,29,1131
+289,Mountain Tire Tube,Accessories,Tires and Tubes,2,31-03-2013,146,Low-Performer,0,121,605,121,121,5,5,605
+290,Road Tire Tube,Accessories,Tires and Tubes,1,30-03-2013,146,Low-Performer,0,95,380,95,95,4,4,380
+291,Touring Tire Tube,Accessories,Tires and Tubes,2,30-03-2013,146,Low-Performer,0,62,310,62,61,5,5,310
+292,Classic Vest- L,Clothing,Vests,24,20-03-2013,146,Low-Performer,0,2,128,2,2,64,64,128
+293,Classic Vest- M,Clothing,Vests,24,29-03-2013,146,Low-Performer,0,3,192,3,3,64,64,192
+294,Classic Vest- S,Clothing,Vests,24,29-03-2013,146,Low-Performer,0,6,384,6,6,64,64,384
+295,Water Bottle - 30 oz.,Accessories,Bottles and Cages,2,31-03-2013,146,Low-Performer,0,147,735,147,147,5,5,735
