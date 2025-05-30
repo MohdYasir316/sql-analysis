@@ -20,7 +20,8 @@ Database System: ( MySQL).
 
 
 -- Source the schema file
-SOURCE path/to/sql-analysis/database/schema.sql;
+https://github.com/MohdYasir316/sql-analysis
+
 
 
 
@@ -44,4 +45,4 @@ License
 This project is licensed under the MIT License 
 
 Contact
-Mohd Yasir - 
+Mohd Yasir - https://github.com/MohdYasir316
